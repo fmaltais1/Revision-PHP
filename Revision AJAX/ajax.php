@@ -5,3 +5,4 @@
     $data = $action->execute();
 
     echo json_encode($data["lights"]);
+    ?>
